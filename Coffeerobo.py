@@ -9,4 +9,3 @@ if quantity> 10:
     print("the waiting time is more than 15 mins sorry for the inconvvienience")
 else:
     print ("your "+choice+ " will be ready in 10 mins thank you!")
-jgsfghjsfgshjfghsjdfghsjgfjshgfsjhdfgsdjfhgsdhjfsjf
